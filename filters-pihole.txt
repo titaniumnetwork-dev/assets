@@ -1,0 +1,2 @@
+0.0.0.0 accounts.google.com
+0.0.0.0 netflix.com
